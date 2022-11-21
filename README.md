@@ -5,5 +5,16 @@ Un centro de atención telefónica tiene solo una persona para tomar las llamada
 
 Simular 100 clientes y analizar nuestro sistema, con el primer cliente siendo atendido en tiempo 0.
 Comparar 2 operadores con los siguientes datos.
+
+
 ![image](https://user-images.githubusercontent.com/76268040/202994523-dbae23dd-78a9-4ea6-9c5a-b1e626b9f1a5.png)
+
+Se necesita obtener:
+¿Quien atiende a los 100 clientes mas rápido?
+Tiempo promedio de espera
+Tiempo promedio de servicio
+Promedio de tiempo que pasa un cliente en el sistema
+Probabilidad de que el servidor este inactivo
+
+
 
